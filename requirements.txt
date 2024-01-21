@@ -1,0 +1,5 @@
+Scrapy>=2.6.0
+playwright>=1.41.0
+Twisted==21.7.0
+pyopenssl==22.0.0
+scrapy-playwright
